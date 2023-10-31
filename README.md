@@ -38,8 +38,8 @@ Using the *Longitude* and *latitude* we make another call to the api to retrieve
 
 Afterwards, using the **Tkinter** libary in python We created a simple ui to display the information in a more user-friendly way. The UI consists of a window with a search bar in which you input the name of the city  and a -search button to execute the search. If the name of the city is correct a frame appears which has four labels attached in a column. The name of the place, the temperature , image and a small description.
 
-**example**
-[new new](https://github.com/omarhn/WeatherApp/assets/80461981/c2df65cd-b477-4a95-ba73-3d05353c0476)
+
+[Example](https://github.com/omarhn/WeatherApp/assets/80461981/c2df65cd-b477-4a95-ba73-3d05353c0476)
 
 If the name of the city is incorrect a pop-up window appears with an error message 
 >City name is incorrect or doesnt exist !
